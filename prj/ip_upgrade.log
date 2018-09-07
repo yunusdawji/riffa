@@ -1,0 +1,16 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.2 (win64) Build 1909853 Thu Jun 15 18:39:09 MDT 2017
+| Date         : Thu Sep  6 17:01:01 2018
+| Host         : rapid03 running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7vx485tffg1761-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'PCIeGen2x8If128'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of PCIeGen2x8If128 from xilinx.com:ip:pcie_7x:3.2 (Rev. 1) to xilinx.com:ip:pcie_7x:3.3 (Rev. 4)
+
